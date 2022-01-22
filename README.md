@@ -5,7 +5,7 @@ I'm [Aashish], developer 🧑‍💻 from India.
 > Improving 1% each day 📈
 
 
-- 🔭 I’m currently working as ** Software Developer** 
+- 🔭 I’m currently working as **Software Developer** 
 - 🌱 I’m currently improving ... **Programming**
 - 💬 Employement ... **Open for full-time opportunities**
 - 📫 Reach me on **<a href="mailto:aashish2096@gmail.com">aashish2096@gmail.com</a>**
