@@ -1,4 +1,43 @@
-### Hi there, I am Aashish 👋
+### Hey there, Nice to see you !  👋
+
+# 
+I'm [Aashish], developer 🧑‍💻 from India.
+> Improving 1% each day 📈
+
+
+- 🔭 I’m currently working as ** Software Developer** 
+- 🌱 I’m currently improving ... **Programming**
+- 💬 Employement ... **Open for full-time opportunities**
+- 📫 Reach me on **<a href="mailto:aashish2096@gmail.com">aashish2096@gmail.com</a>**
+
+### Programming Languages: 😎
+<ul>
+<li>C++ </li>
+<li>Python </li>
+<li>Java</li>
+</ul>
+<hr>
+
+### My Interests 😎
+<ul>
+<li>Spring Boot </li>
+<li>Elastic Search </li>
+<li>MongoDB</li>
+</ul>
+<hr>
+
+### My Interests 😎
+- Building Novelty
+- Applied Research 
+- Photography 
+
+<hr>
+
+### My Publications 📚 
+- [IEEE]
+- [Springer]
+- [Taylor Franscis]
+
 
 <!--
 **aashish-2096/aashish-2096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +53,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[Aashish]:(https://aashish-2096.github.io)
+[IEEE]:(https://ieeexplore.ieee.org/abstract/document/9619283)
+[Springer]:(https://link.springer.com/chapter/10.1007/978-981-13-9574-1_2)
+[Taylor Franscis]:(https://www.taylorfrancis.com/chapters/edit/10.1201/9780367821555-12/improved-two-factor-authentication-scheme-tmis-based-dual-biometrics-aashish-kumar-preeti-chandrakar-rifaqat-ali?context=ubx&refId=bc600d80-aec7-4089-8524-b25fa9ad31df)
