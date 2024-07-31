@@ -1,9 +1,9 @@
-### Hey there, Nice to see you !  👋
+### Hey there, Nice to see you stop by !  👋
 
 # 
-I'm [Aashish], developer 🧑‍💻 from India.
-> Improving 1% each day 📈
-
+I'm [Aashish], problem solver 🧑‍💻 from India.
+> Improving 1% each day, 
+> Aiming to get all my work done on automation 
 
 - 🔭 I’m currently working as **Software Developer** 
 - 🌱 I’m currently improving ... **Programming**
@@ -12,15 +12,17 @@ I'm [Aashish], developer 🧑‍💻 from India.
 
 ### Programming Languages: 😎
 <ul>
+<li>Java</li>
 <li>C++ </li>
 <li>Python </li>
-<li>Java</li>
 </ul>
 <hr>
 
 ### My Interests 😎
 <ul>
 <li>Spring Boot </li>
+<li>gRPC</li>
+<li>MicroServices</li>
 <li>Elastic Search </li>
 <li>MongoDB</li>
 </ul>
@@ -29,7 +31,7 @@ I'm [Aashish], developer 🧑‍💻 from India.
 ### My Interests 😎
 - Building Novelty
 - Applied Research 
-- Photography 
+- Photography
 
 <hr>
 
